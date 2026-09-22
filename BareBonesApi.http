@@ -1,0 +1,6 @@
+@BareBonesApi_HostAddress = http://localhost:5199
+
+GET {{BareBonesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
